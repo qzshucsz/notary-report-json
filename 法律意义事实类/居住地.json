@@ -1,0 +1,33 @@
+{
+	"item":"居住地",
+	"applicant":{
+			"name":"赵春兰",
+			"id-number":"350524199104126452"
+	},
+
+
+	"residence_location":{
+		"province":"上海",
+		"city":"静安区",
+		"road":"共和新路",
+		"number":265
+	},
+
+	"notary_office":{
+		"province":"上海",
+		"city":"静安区",
+		"notary":"胶州路公证处"
+	},
+
+	"signer":"李四",
+
+	"sign_time":{
+		"date":"2018-09-10"
+	},
+
+	"expire_time":{
+		"date":"2020-09-10"
+
+	}
+
+}

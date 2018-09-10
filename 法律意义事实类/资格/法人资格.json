@@ -1,0 +1,39 @@
+{
+	"item":"法人资格",
+	"applicant":{
+			"name":"赵春兰",
+			"id-number":"350524199104126452"
+	},
+
+
+	"registration_date":"2009-04-20",
+
+	"registration_department_full_name":"上海静安区工商局",
+
+	"registration_number":20180320001,
+
+	"juridical_personl_name":"赵春兰",
+
+	"juridical_personl_code":201802564422,
+
+	"juridical_personl_residence":"上海市浦东区华佗路280弄4幢7号楼",
+
+
+	"notary_office":{
+		"province":"上海",
+		"city":"静安区",
+		"notary":"胶州路公证处"
+	},
+
+	"signer":"李四",
+
+	"sign_time":{
+		"date":"2018-09-10"
+	},
+
+	"expire_time":{
+		"date":"2020-09-10"
+
+	}
+
+}

@@ -1,0 +1,37 @@
+{
+	"item":"非法人组织资格",
+	"applicant":{
+			"name":"赵春兰",
+			"id-number":"350524199104126452"
+	},
+
+
+	"registration_date":"2009-04-20",
+
+	"registration_department_full_name":"上海静安区工商局",
+
+	"registration_number":20180320001,
+
+	"registration_certificate_full_name":"上海温州商会",
+
+	"qulification_detail":"系温州商会在上海的联系组织",
+
+
+	"notary_office":{
+		"province":"上海",
+		"city":"静安区",
+		"notary":"胶州路公证处"
+	},
+
+	"signer":"李四",
+
+	"sign_time":{
+		"date":"2018-09-10"
+	},
+
+	"expire_time":{
+		"date":"2020-09-10"
+
+	}
+
+}

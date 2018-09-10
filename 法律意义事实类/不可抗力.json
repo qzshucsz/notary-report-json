@@ -1,0 +1,52 @@
+{
+	"applicant":{
+		"name":"张三",
+		"id-number":"350524199904126452"
+	},
+
+	"item":"不可抗力(意外事件)",
+
+	"happen-time":{
+		"date":{
+			"year":2018,
+			"month":9,
+			"day":1
+		}
+	},
+
+	"happen-location":{
+		"province":"上海",
+		"city":"静安区",
+		"location-detail":"广中路xx号"
+	},
+
+	"event":"台风暴雨",
+
+	"injury":"骨折",
+
+
+	"notary-office":{
+		"province":"上海",
+		"city":"静安区",
+		"notary":"胶州路公证处"
+	},
+
+	"signer":"李四",
+	"sign-time":{
+		"date":{
+			"year":2018,
+			"month":9,
+			"day":10
+		}
+	},
+
+	"expire-time":{
+		"date":{
+				"year":2020,
+				"month":9,
+				"day":10
+			}
+
+	}
+
+}

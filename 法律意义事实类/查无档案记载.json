@@ -1,0 +1,60 @@
+{
+	"applicant":{
+		"name":"张三",
+		"id-number":"350524199904126452"
+	},
+
+	"item":"查无档案记载",
+
+	"archive":{
+		"province":"上海",
+		"city":"静安区"
+	},
+
+	"start-date":{
+		"date":{
+				"year":1990,
+				"month":9,
+				"day":10
+			}
+	},
+
+	"end-date":{
+		"date":{
+				"year":2016,
+				"month":9,
+				"day":10
+			}
+		},
+
+	"applicant-name":"张三",
+
+	"document-name":"xx档案",
+
+
+	"notary-office":{
+		"province":"上海",
+		"city":"静安区",
+		"notary":"胶州路公证处"
+	},
+
+	"signer":"李四",
+
+	"sign-time":{
+		"date":{
+				"year":2018,
+				"month":9,
+				"day":10
+		}
+	},
+
+	"expire-time":{
+		"date":{
+				"year":2020,
+				"month":9,
+				"day":10
+			}
+
+	}
+
+}

@@ -1,0 +1,37 @@
+{
+	"item":"生存",
+
+	"applicant":{
+		"name":"钱震",
+		"id-number":"350524199104126452"
+	},
+
+	"alive_date":"2015-02-10",
+
+	"residence_location":{
+		"province":"上海",
+		"city":"静安区",
+		"road":"",
+		"number":""
+
+	},
+
+
+	"notary_office":{
+		"province":"上海",
+		"city":"静安区",
+		"notary":"胶州路公证处"
+	},
+
+	"signer":"李四",
+
+	"sign_time":{
+		"date":"2018-09-10"
+	},
+
+	"expire_time":{
+		"date":"2020-09-10"
+
+	}
+
+}

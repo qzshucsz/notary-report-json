@@ -1,0 +1,45 @@
+{
+	"item":"认领亲子",
+
+	"applicant":{
+		"mother":{
+			"name":"赵春兰",
+			"id-number":"350524199104126452"
+		},
+
+		"father":{
+			"name":"张三",
+			"id-number":"3505241990104126452"
+		}
+	},
+
+	"related_person":{
+			"name":"王五",
+			"id-number":"350524201004126452"
+	},
+
+	"application_date":"2018-04-12",
+
+	"Identification_hostpital_full_name":"",
+
+	"Identification_date":"",
+
+
+	"notary_office":{
+		"province":"上海",
+		"city":"静安区",
+		"notary":"胶州路公证处"
+	},
+
+	"signer":"李四",
+
+	"sign_time":{
+		"date":"2018-09-10"
+	},
+
+	"expire_time":{
+		"date":"2020-09-10"
+
+	}
+
+}

@@ -1,0 +1,48 @@
+{
+	"applicant":{
+		"name":"张三",
+		"id-number":"350524199904126452"
+	},
+
+	"item":"xxx证书",
+
+	"unit":"复旦大学软件学院",
+
+	"issue-time":{
+		"date":{
+			"year":2018,
+			"month":9,
+			"day":1
+		}
+	},
+
+	"owner":"张三",
+
+	"certificate-full-name":"证照名称",
+
+	"notary-office":{
+		"province":"上海",
+		"city":"静安区",
+		"notary":"胶州路公证处"
+	},
+
+	"signer":"李四",
+	
+	"sign-time":{
+		"date":{
+			"year":2018,
+			"month":9,
+			"day":10
+		}
+	},
+
+	"expire-time":{
+		"date":{
+				"year":2020,
+				"month":9,
+				"day":10
+			}
+
+	}
+
+}

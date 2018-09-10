@@ -1,0 +1,39 @@
+{
+	"item":"经历",
+	"applicant":{
+			"name":"赵春兰",
+			"id-number":"350524199104126452"
+	},
+
+	"start_date":"2006-05-11",
+	
+	"end_date":"2010-03-02",
+
+	"location":{
+		"province":"上海",
+		"city":"静安区"
+
+	},
+
+
+	"experience_name":"承建共和新路拓宽工程",
+
+
+	"notary_office":{
+		"province":"上海",
+		"city":"静安区",
+		"notary":"胶州路公证处"
+	},
+
+	"signer":"李四",
+
+	"sign_time":{
+		"date":"2018-09-10"
+	},
+
+	"expire_time":{
+		"date":"2020-09-10"
+
+	}
+
+}

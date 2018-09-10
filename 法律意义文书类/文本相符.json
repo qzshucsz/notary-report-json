@@ -1,0 +1,39 @@
+{
+	"applicant":{
+		"name":"张三",
+		"id-number":"350524199904126452"
+	},
+
+	"item":"副本与原本相符",
+
+	"owner":"张三",
+
+	"copy-name":"副本文件名称",
+
+
+	"notary-office":{
+		"province":"上海",
+		"city":"静安区",
+		"notary":"胶州路公证处"
+	},
+
+	"signer":"李四",
+	
+	"sign-time":{
+		"date":{
+			"year":2018,
+			"month":9,
+			"day":10
+		}
+	},
+
+	"expire-time":{
+		"date":{
+				"year":2020,
+				"month":9,
+				"day":10
+			}
+
+	}
+
+}

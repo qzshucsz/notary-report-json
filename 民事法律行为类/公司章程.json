@@ -1,0 +1,58 @@
+{
+	"item":"公司章程",
+
+	"applicant":{
+		"name":"赵春兰",
+		"id-number":"350524199104126452"
+
+	},
+
+	"company_name":"",
+
+	"host_date":"",
+
+	"host_location":"",
+
+	"attended_shareholder_amount":"",
+
+	"agree_representative_stake":"",
+
+	"agree_shareholder_amount":"",
+
+
+	"oppose_shareholder_amount":"",
+
+	"oppose_representative_stake":"",
+
+	"abandon_shareholder_amount":"",
+
+	"abandon_representative_stake":"",
+
+	"shareholder_names":{
+		"shareholder_name1":"",
+		"shareholder_name2":"",
+		"shareholder_name3":""
+
+	},
+
+	"effective_date":"2018-04-12",
+
+
+	"notary_office":{
+		"province":"上海",
+		"city":"静安区",
+		"notary":"胶州路公证处"
+	},
+
+	"signer":"李四",
+
+	"sign_time":{
+		"date":"2018-09-10"
+	},
+
+	"expire_time":{
+		"date":"2020-09-10"
+
+	}
+
+}

@@ -1,0 +1,55 @@
+{
+	"applicant":{
+		"name":"张三",
+		"id-number":"350524199904126452"
+	},
+
+	"item":"票据拒绝",
+
+	"applicant-name":"张三",
+
+	"bill-info":"中国银行支票",
+
+	"check-date":{
+		"date":{
+				"year":2018,
+				"month":9,
+				"day":10
+			}
+	},
+
+	"check-location":{
+		"province":"上海",
+		"city":"静安区",
+		"location-detail":"中国银行广中路支行"
+	},
+
+	"drawee":"李四",
+
+
+	"notary-office":{
+		"province":"上海",
+		"city":"静安区",
+		"notary":"胶州路公证处"
+	},
+
+	"signer":"李四",
+	
+	"sign-time":{
+		"date":{
+			"year":2018,
+			"month":9,
+			"day":10
+		}
+	},
+
+	"expire-time":{
+		"date":{
+				"year":2020,
+				"month":9,
+				"day":10
+			}
+
+	}
+
+}
